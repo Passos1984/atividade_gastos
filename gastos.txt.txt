@@ -1,6 +1,6 @@
 nome          Moradia        Alimentação      Transporte     Dividas    Lazer     
 Guilherme   R$ 1.400	   R$ 400.00        R$ 250.00	   R$ 150.00   R$ 90.00
-Pedro	      
+Pedro	    R$ 500.00      R$ 150.00        R$ 300.00      R$ 400.00   R$ 150.00
 Maria 	      
 Adriele	     
 Adriele	      
